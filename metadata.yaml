@@ -1,0 +1,29 @@
+_repo: On-the-Philosophy-of-Discovery-Chapters-Historical-and-Critical_51555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whewell, William
+    alias: Whewell, W. (William)
+    birthdate: 1794
+    deathdate: 1866
+    gutenberg_agent_id: '38180'
+    url: http://www.gutenberg.org/2009/agents/38180
+description: ''
+gutenberg_issued: '2016-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51555'
+  lccn: '10021244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science -- Philosophy'
+- !lcc 'B'
+- !lcsh 'Science -- History'
+- !lcsh 'Philosophy -- History'
+- GITenberg
+title: On the Philosophy of Discovery, Chapters Historical and Critical
+url: http://www.gutenberg.org/ebooks/51555
